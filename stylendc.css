@@ -1,0 +1,1370 @@
+.header{
+position: absolute;  
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+background: #4E65B9;
+}
+
+.header2{
+    position: fixed;
+    width: 9974px;
+    height: 1027px;
+    left:0px;
+    top: 0px;
+    
+    background: #4E65B9;
+}
+
+
+
+.infoheader{
+    position: fixed;
+width: 1144px;
+height: 84px;
+left: 30px;
+top: -7px;
+
+font-family: 'LEMON MILK';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 0%;
+/* or 0px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.27em;
+
+color: #FFFFFF;
+}
+
+
+
+.infoheader2{
+    position: fixed;
+width: 1144px;
+height: 84px;
+left: 500px;
+top: -7px;
+
+font-family: 'LEMON MILK';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 0%;
+/* or 0px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.27em;
+
+color: #FFFFFF;
+}
+
+.infoheader3{
+    position: fixed;
+    width: 1144px;
+    height: 84px;
+    left: 800px;
+    top: -7px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 0%;
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.27em;
+    
+    color: #FFFFFF;
+    }
+
+    .apropos2{
+        position: fixed;
+        width: 1144px;
+        height: 84px;
+        left: 920px;
+        top: -7px;
+        
+        font-family: 'LEMON MILK';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 0%;
+        /* or 0px */
+        
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.27em;
+        
+        color: #FFFFFF;
+    }
+
+    .titrepage2{
+        position: absolute;
+    width: 826px;
+    height: 92px;
+    left: 1105px;
+    top: -83px;
+    font-family: 'LEMON MILK';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 0%;
+    text-decoration: none;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing:0.27em;
+    word-spacing: -2px;
+    
+    color: #FFFFFF;
+    
+    }
+
+.titrepage{
+    position: absolute;
+width: 826px;
+height: 92px;
+left: 1105px;
+top: -83px;
+font-family: 'LEMON MILK';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 0%;
+text-decoration: none;
+
+display: flex;
+align-items: center;
+letter-spacing:0.27em;
+word-spacing: -2px;
+
+color: #FFFFFF;
+
+}
+
+.titrepage:hover{
+    text-decoration: none;
+    color:#000F46;
+}
+
+
+.background{
+/*bulle body*/
+position: fixed;
+max-width: 1676px;
+width:1470px;
+max-height: 963px;
+height:643px;
+left: 30px;
+top: 70px;
+
+background: #E0E7FF;
+border-radius: 46px;
+}
+
+.background2{
+    position: absolute;
+    max-width: 1676px;
+    width:1470px;
+    max-height: 963px;
+    height:643px;
+    left: 5px;
+    top: 70px;
+    background: #000F46;
+    border-radius: 66px;
+
+}
+
+
+
+.previsionbutton{
+    position: fixed;
+    width: 425px;
+    height: 270px;
+    left: 254px;
+    top: 250px;
+    
+    background: #000F46;
+    border-radius: 105px;
+
+}
+
+.prevision{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 390px;
+    top: 450px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 0%;
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+    text-decoration:none;
+
+}
+
+.picto{
+    position: fixed;
+    width: 318px;
+    height: 244px;
+    left: 300px;
+    top: 250px;
+
+
+
+}
+
+.picto2{
+position: fixed;
+width: 318px;
+height: 244px;
+left: 890px;
+top: 250px;
+}
+
+.reserverbutton{
+
+    position: fixed;
+    width: 425px;
+    height: 270px;
+    left: 850px;
+    top: 250px;
+    
+    background: #000F46;
+    border-radius: 105px;
+}
+
+
+.reserver{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 1000px;
+    top: 450px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 0%;
+    color: #FFFFFF;
+    text-decoration:none;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.météo{
+
+    position: absolute;
+    width:0px;
+    height: 400px;
+    left: 0px;
+    top: 450px;
+   
+    background: rgb(182, 193, 234);
+
+}
+
+
+
+.m{
+    margin: 500px;
+    gap:300px;
+  
+
+  }
+
+  .grid3{
+  display:grid;
+  grid-template-columns: repeat(6,2fr);
+    position:relative;
+    width: 444.59px;
+    height: 579.04px;
+    left: -150.5px;
+    top: -400px;
+
+  }
+
+  .grilletxt{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 444.59px;
+      height: 579.04px;
+      left: 575px;
+      top: -730px;
+      font-family: 'LEMON MILK';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 110%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      letter-spacing: 2px;
+    
+      
+      display: flex;
+      align-items: center;
+      text-align: left;
+  
+    }
+
+
+    .grilletxt li a{
+        display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 444.59px;
+      height: 579.04px;
+      left: -84px;
+      top: 211px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 100%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      letter-spacing: 2px;
+      
+    
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+    }
+
+    .grilletxt ul a{
+        display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 444.59px;
+      height: 579.04px;
+      left: -444px;
+      top: 1px;
+      font-family:'Courier New', Courier, monospace;
+      font-style:italic;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      letter-spacing: 2px;
+      
+    
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+    }
+.titre2{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 381px;
+      height: 579.04px;
+      left: 1775px;
+      top: -1302px;
+      font-family: 'LEMON MILK';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+     
+  
+}
+
+.titre2 li a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 433px;
+      height: 579.04px;
+      left: -97px;
+      top: 203px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+  
+}
+
+.titre2 ul a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 433px;
+      height: 579.04px;
+      left: -413px;
+      top: 5px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+  
+}
+
+.titre2 nav a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 433px;
+      height: 579.04px;
+      left: -999px;
+      top: 109px;
+      font-family: 'LEMON MILK';
+      font-style:italic;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+  
+}
+
+.titre3{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 381px;
+      height: 579.04px;
+      left: 2975px;
+      top: -1894px;
+      font-family: 'LEMON MILK';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+.titre3 li a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 381px;
+      height: 579.04px;
+      left: -97px;
+      top: 252px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.titre3 ul a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 381px;
+      height: 579.04px;
+      left: -382px;
+      top: -3px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.titre3 nav a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 381px;
+      height: 579.04px;
+      left: -897px;
+      top: 88px;
+      font-family:'LEMON MILK';
+      font-style: italic;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.txtreserver{
+    position: fixed;
+    width: 500px;
+    height: 60px;
+    left: 500px;
+    top: 200px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    color: #FFFFFF;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    display: flex;
+    align-items: center;
+    text-align:center;
+}
+
+.grilletxt nav a{
+    display:grid;
+grid-template-columns: repeat(6,2fr);
+  position:relative;
+  width: 698.6px;
+  height: 579.04px;
+  left: -1012px;
+  top: 386px;
+  font-family: 'LEMON MILK';
+  font-style:italic;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 100%;
+  color: #FFFFFF;
+  text-decoration: none;
+  word-spacing:5px ;
+  letter-spacing: 2px;
+}
+
+.film4{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 933px;
+      height: 579.04px;
+      left: 4174px;
+      top: -2460px;
+      font-family: 'LEMON MILK';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film4 li a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 800px;
+      height: 579.04px;
+      left: -78px;
+      top: 258px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film4 ul a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 800px;
+      height: 579.04px;
+      left: -788px;
+      top: 3px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film4 nav a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 800px;
+      height: 579.04px;
+      left: -1720px;
+      top: 95px;
+      font-family:'LEMON MILK';
+      font-style: italic;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film5{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 933px;
+      height: 579.04px;
+      left: 5371px;
+      top: -3075px;
+      font-family: 'LEMON MILK';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film5 li a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 710px;
+      height: 579.04px;
+      left: -105px;
+      top: 178px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film5 ul a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 710px;
+      height: 579.04px;
+      left: -716px;
+      top: 3px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film5 nav a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 710px;
+      height: 579.04px;
+      left: -1563px;
+      top: 79px;
+      font-family:'LEMON MILK';
+      font-style: italic;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film6{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 933px;
+      height: 579.04px;
+      left: 6569px;
+      top: -3606px;
+      font-family: 'LEMON MILK';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film6 li a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 559px;
+      height: 579.04px;
+      left: -76px;
+      top: 203px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film6 ul a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 347px;
+      height: 579.04px;
+      left: -567px;
+      top: 7px;
+      font-family:'Courier New', Courier, monospace;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.film6 nav a{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 710px;
+      height: 579.04px;
+      left: -1021px;
+      top: 122px;
+      font-family:'LEMON MILK';
+      font-style: italic;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:5px ;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.horaires{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 1299px;
+      height: 579.04px;
+      left: 425px;
+      top: -3668px;
+      font-family:'LEMON MILK';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:1127px ;
+      letter-spacing: 5px;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.horaires2{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 4853px;
+      height: 579.04px;
+      left: 2835px;
+      top: -4238px;
+      font-family:'LEMON MILK';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:1127px ;
+      letter-spacing: 5px;
+
+    
+      
+      display: flex;
+      align-items: center;
+      text-align:center;
+}
+
+.temperatures{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 1299px;
+      height: 579.04px;
+      left: 446px;
+      top: -4954px;
+      font-family:'LEMON MILK';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:1184px ;
+      letter-spacing: 5px;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+}
+
+.temperatures2{
+    display:grid;
+    grid-template-columns: repeat(6,2fr);
+      position:relative;
+      width: 4853px;
+      height: 579.04px;
+      left: 2835px;
+      top: -5532px;
+      font-family:'LEMON MILK';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:1149px ;
+      letter-spacing: 5px;
+
+    
+      
+      display: flex;
+      align-items: center;
+      text-align:center;
+}
+.fleche{
+    left: 7603px;
+    top: 372px; 
+    position: absolute;
+width: 245.01px;
+height: 0px;
+}
+
+
+.nuage1{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 393px;
+    top: 396px; 
+    
+}
+
+.nuage2{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 1548px;
+    top: 396px; 
+    
+}
+
+.nuage3{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 2765px;
+    top: 387px; 
+    
+}
+
+.nuage4{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 3991px;
+    top: 387px; 
+    
+}
+
+.nuage5{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 5144px;
+    top: 387px; 
+    
+}
+
+.soleil{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 6352px;
+    top: 355px; 
+    
+}
+
+.fin{
+    position: absolute;
+    width: 469px;
+    height: 235px;
+    left: 7427px;
+    top: 155px; 
+    font-family:'LEMON MILK';
+      font-style:italic;
+      font-weight: 500;
+      font-size: 30px;
+      line-height: 120%;
+      color: #FFFFFF;
+      text-decoration: none;
+      word-spacing:10px ;
+      letter-spacing: 5px;
+      
+      display: flex;
+      align-items: center;
+      text-align:left;
+    
+    
+}
+.tarif1{
+
+    position: fixed;
+    width: 280px;
+    height: 250px;
+    left: 1090px;
+    top: 400px;
+    
+    background:  rgb(182, 193, 234);
+    border-radius: 105px;
+}
+
+.tarif2{
+
+    position: fixed;
+    width: 280px;
+    height: 250px;
+    left: 630px;
+    top: 400px;
+    
+    background:  rgb(182, 193, 234);
+    border-radius: 105px;
+}
+
+.tarif3{
+
+    position: fixed;
+    width: 280px;
+    height: 250px;
+    left: 170px;
+    top: 400px;
+    
+    background:  rgb(182, 193, 234);
+    border-radius: 105px;
+}
+
+.tarifreduit{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 1145px;
+    top: 460px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+.tarifadulte{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 190px;
+    top: 460px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+.tarifparfilm{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 695px;
+    top: 460px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+
+.prix1{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 1200px;
+    top: 530px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+.prix2{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 740px;
+    top: 530px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+.prix3{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 270px;
+    top: 530px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+.apropos{
+    position: fixed;
+    width: 500px;
+    height: 60px;
+    left: 500px;
+    top: 259px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    color: #FFFFFF;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    display: flex;
+    align-items: center;
+    text-align:center;
+
+}
+
+.attention{
+    position: fixed;
+    width: 571px;
+    height: 60px;
+    left: 509px;
+    top: 585px;
+    
+    font-family: 'LEMON MILK';
+    font-style:italic;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 165%;
+    color: #FFFFFF;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    
+    display: flex;
+    align-items: center;
+    text-align:center;
+}
+
+.proretour{
+
+    position: fixed;
+    width: 800px;
+    height: 50px;
+    left: 350px;
+    top: 500px;
+    
+    background:  rgb(182, 193, 234);
+    border-radius: 105px;
+}
+
+.retour{
+    position: fixed;
+    width: 368px;
+    height: 60px;
+    left: 640px;
+    top: 495px;
+    
+    font-family: 'LEMON MILK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 140%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    
+    /* or 0px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color:#000F46;
+    text-decoration: none;
+}
+
+.infoplus{
+    position: absolute;
+    width: 390px;
+    height: 206px;
+    left: 7846px;
+    top: 412px;
+    
+    background: rgb(182, 193, 234);
+    border-radius: 105px;
+}
+.infoplus2 li a{
+    position: absolute;
+    width: 390px;
+    height: 206px;
+    left: 7960px;
+    top: 380px;
+    
+   
+    font-family: 'LEMON MILK';
+    font-style:italic;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 165%;
+    color: #000F46;;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+    display: flex;
+    align-items: center;
+    text-align:center;
+}
+
+.infoplus2 ul a{
+    position: absolute;
+    width: 116px;
+    height: 39px;
+    left: 7980px;
+    top: 525px;
+    
+   
+    font-family: 'LEMON MILK';
+    font-style:italic;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 165%;
+    color: #000F46;;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+    display: flex;
+    align-items: center;
+    text-align:center;
+}
+
